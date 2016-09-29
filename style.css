@@ -19,6 +19,7 @@ h1 {
 }
 
 .column {
+	float: right;
 	margin-left: 150px;
   -webkit-column-count: 2;
   -moz-column-count: 2; 
