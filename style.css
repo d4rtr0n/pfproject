@@ -1,0 +1,14 @@
+* {
+	box-sizing: border-box;
+}
+
+ul {
+    list-style-type: none;
+    background-color: #aa00e5;
+    position: fixed;
+    overflow: auto;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    height: 100%; 
+}
