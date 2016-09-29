@@ -1,4 +1,5 @@
 * {
+	margin: 10px auto;
 	box-sizing: border-box;
 	font-family: 'Slabo 27px', serif;
 }
@@ -11,12 +12,30 @@ nav {
     height: 100%;
 }
 
+li {
+	padding: 100px;
+	text-align: center;
+    display: inline;
+}
+
 a{
 	color: #aa00e5;
 }
 
 h1 {
 	text-align: center;
+}
+
+.text {
+	float: left;
+	width: 33%;
+	margin: 5px;
+}
+
+img.self {
+	float: left;
+	width: 33%;
+	margin: 5px;
 }
 
 div.img {
