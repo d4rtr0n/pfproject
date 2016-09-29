@@ -18,6 +18,13 @@ h1 {
 	text-align: center;
 }
 
+.column {
+	margin-left: 150px;
+  -webkit-column-count: 2;
+  -moz-column-count: 2; 
+  column-count: 2;
+}
+
 .text {
 	float: left;
 	width: 30%;
