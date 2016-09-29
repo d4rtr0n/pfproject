@@ -3,13 +3,36 @@
 	font-family: 'Slabo 27px', serif;
 }
 
-ul {
-    list-style-type: none;
-    background-color: #aa00e5;
-    position: fixed;
-    overflow: auto;
-    margin: 0;
-    padding: 0;
-    width: 25%;
-    height: 100%; 
+nav {
+    float: left;
+    padding-left: 22px;
+    padding-top: 22px;
+    padding-right: 22px;
+    height: 100%;
+}
+
+a{
+	color: #aa00e5;
+}
+
+h1 {
+	text-align: center;
+}
+
+div.img {
+	float: left;
+	width: 180px;
+	margin: 5px;
+	border: 1px solid purple;
+}
+
+div.img img {
+	width: 100%;
+	height: auto;
+}
+
+div.caption {
+	padding: 15px;
+	font-family: "Helvetica";
+	text-align: right;
 }
