@@ -30,6 +30,12 @@ img.self {
 	margin: 5px;
 }
 
+img.bike {
+	float: left;
+	width: 600px;
+	height: 511px;
+}
+
 div.img {
 	float: left;
 	width: 180px;
